@@ -1,4 +1,4 @@
-import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
+import { createSlice} from "@reduxjs/toolkit";
 import { getDummyAction } from "../../actionCreators/dummyAction";
 
 const initialState: {
